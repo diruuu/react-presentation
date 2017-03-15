@@ -175,7 +175,7 @@ let anotherFoo = "anotherBar" // can be reassigned`}
           <Appear>
             <Text textColor="#333" padding="50px 0 0px" textAlign="left" textSize="1em">
               ES6 Javascript
-            <Image width="100%" src={images.es6string} />
+            <Image width="100%" src={`.${images.es6string}`} />
             </Text>
           </Appear>
         </Slide>
